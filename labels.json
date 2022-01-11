@@ -1,118 +1,107 @@
 [
-	{
-		"name": "type: bug",
-		"color": "e11d21",
-		"aliases": [
-			"bug"
-		]
-	},
-	{
-		"name": "type: breaking",
-		"color": "990000",
-		"aliases": [
-			"breaking",
-			"breaking-change"
-		]
-	},
-	{
-		"name": "type: maintenance",
-		"color": "fbca04",
-		"aliases": [
-			"maintenance",
-			"refactor",
-			"testing",
-			"test"
-		]
-	},
-	{
-		"name": "type: enhancement",
-		"color": "009800",
-		"aliases": [
-			"enhancement",
-			"feature"
-		]
-	},
-	{
-		"name": "type: question",
-		"color": "cc317c",
-		"aliases": [
-			"question"
-		]
-	},
-	{
-		"name": "type: discussion",
-		"color": "cc317c",
-		"aliases": [
-			"discussion"
-		]
-	},
-	{
-		"name": "type: documentation",
-		"color": "207de5",
-		"aliases": [
-			"documentation"
-		]
-	},
-	{
-		"name": "type: design",
-		"color": "eb6420",
-		"aliases": [
-			"design"
-		]
-	},
-	{
-		"name": "priority: low",
-		"color": "009800"
-	},
-	{
-		"name": "priority: medium",
-		"color": "fbca04"
-	},
-	{
-		"name": "priority: high",
-		"color": "eb6420"
-	},
-	{
-		"name": "priority: critical",
-		"color": "e11d21"
-	},
-	{
-		"name": "status: good starter issue",
-		"color": "bfe5bf",
-		"aliases": [
-			"beginner-friendly",
-			"beginner",
-			"good-starter-issue",
-			"starter-issue"
-		]
-	},
-	{
-		"name": "status: help wanted",
-		"color": "bfe5bf",
-		"aliases": [
-			"help wanted"
-		]
-	},
-	{
-		"name": "status: wontfix",
-		"color": "cccccc",
-		"aliases": [
-			"wontfix",
-			"wont-fix"
-		]
-	},
-	{
-		"name": "status: duplicate",
-		"color": "cccccc",
-		"aliases": [
-			"duplicate"
-		]
-	},
-	{
-		"name": "status: blocked",
-		"color": "990000",
-		"aliases": [
-			"blocked"
-		]
-	}
+  {
+    "name": "👫 type: help wanted",
+    "description": null,
+    "color": "fec5bb"
+  },
+  {
+    "name": "🏃 priority: critical",
+    "description": null,
+    "color": "ed2938"
+  },
+  {
+    "name": "🚶 priority: high",
+    "description": null,
+    "color": "ffaa1c"
+  },
+  {
+    "name": "🧑‍🦯 priority: medium",
+    "description": null,
+    "color": "ffe733"
+  },
+  {
+    "name": "🧎 priority: low",
+    "description": null,
+    "color": "006b3e"
+  },
+  {
+    "name": "👯‍♀️ type: duplicate",
+    "description": "This issue or pull request already exists",
+    "color": "fcd5ce"
+  },
+  {
+    "name": "😂 effort: 1",
+    "description": null,
+    "color": "d391fa"
+  },
+  {
+    "name": "😄 effort: 2",
+    "description": null,
+    "color": "c364fa"
+  },
+  {
+    "name": "😀 effort: 3",
+    "description": null,
+    "color": "a230ed"
+  },
+  {
+    "name": "🙂 effort: 5",
+    "description": null,
+    "color": "6b00d7"
+  },
+  {
+    "name": "😌 effort: 8",
+    "description": null,
+    "color": "3e00b3"
+  },
+  {
+    "name": "😅 effort: 13",
+    "description": null,
+    "color": "190087"
+  },
+  {
+    "name": "🧐 type: invalid",
+    "description": "This doesn't seem right",
+    "color": "fae1dd"
+  },
+  {
+    "name": "🤔 type: question",
+    "description": "Further information is requested",
+    "color": "f8edeb"
+  },
+  {
+    "name": "🦠 type: bug",
+    "description": "Something isn't working",
+    "color": "e8e8e4"
+  },
+  {
+    "name": "🥸 type: devops",
+    "description": "Things not necessarily to do with code, like deployments, DNS, Mail, etc.",
+    "color": "fec89a"
+  },
+  {
+    "name": "🤓 type: docs",
+    "description": "Improvements or additions to documentation",
+    "color": "d8e2dc"
+  },
+  {
+    "name": "🦾 type: enhancement",
+    "description": "New feature or request",
+    "color": "ece4db"
+  },
+  {
+    "name": "🤗 type: feature",
+    "description": null,
+    "color": "ffe5d9"
+  },
+  {
+    "name": "🔐 type: security",
+    "description": null,
+    "color": "ffd7ba"
+  },
+  {
+    "name": "🤫 type: wontfix",
+    "description": "This will not be worked on",
+    "color": "ffffff"
+  }
 ]
